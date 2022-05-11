@@ -7,11 +7,14 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: true
-  versions:
+   versions:
     - name: Astra Trident
       url: /trident-2110
       version-number: "21.10"
     - name: Astra Trident
+      url: /trident-22.01
+      version-number: "22.01"
+   - name: Astra Trident
       url: /trident-2107
       version-number: "21.07"
     - name: Astra Trident
